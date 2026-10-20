@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "email": "nhutnamong456@gmail.com",
+      "password": "$2a$10$.I1qRSJXDU.W0PnHpOFMHepRL0HLt6FPHurVK1ARoRxvXMWd3pDHK",
+      "name": "Nam",
+      "id": 1
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Dế Mèn Phiêu Lưu Ký",
+      "author": "Tô Hoài",
+      "category": "Văn học",
+      "price": 45000,
+      "image": "https://picsum.photos/seed/book1/300/450",
+      "description": "Câu chuyện về những chuyến phiêu lưu và bài học trưởng thành của Dế Mèn."
+    },
+    {
+      "id": 2,
+      "title": "Nhà Giả Kim",
+      "author": "Paulo Coelho",
+      "category": "Văn học",
+      "price": 79000,
+      "image": "https://picsum.photos/seed/book2/300/450",
+      "description": "Hành trình theo đuổi ước mơ của chàng chăn cừu Santiago."
+    },
+    {
+      "id": 3,
+      "title": "Tắt Đèn",
+      "author": "Ngô Tất Tố",
+      "category": "Văn học",
+      "price": 55000,
+      "image": "https://picsum.photos/seed/book3/300/450",
+      "description": "Tác phẩm phản ánh cuộc sống người nông dân Việt Nam trước Cách mạng."
+    },
+    {
+      "id": 4,
+      "title": "Đắc Nhân Tâm",
+      "author": "Dale Carnegie",
+      "category": "Kỹ năng",
+      "price": 98000,
+      "image": "https://picsum.photos/seed/book4/300/450",
+      "description": "Những nguyên tắc giao tiếp và xây dựng các mối quan hệ."
+    },
+    {
+      "id": 5,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Kỹ năng",
+      "price": 169000,
+      "image": "https://picsum.photos/seed/book5/300/450",
+      "description": "Cách xây dựng thói quen tốt từ những thay đổi nhỏ mỗi ngày."
+    },
+    {
+      "id": 6,
+      "title": "Lược Sử Thời Gian",
+      "author": "Stephen Hawking",
+      "category": "Khoa học",
+      "price": 135000,
+      "image": "https://picsum.photos/seed/book6/300/450",
+      "description": "Giới thiệu những câu hỏi lớn về vũ trụ, không gian và thời gian."
+    },
+    {
+      "id": 7,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "category": "Khoa học",
+      "price": 210000,
+      "image": "https://picsum.photos/seed/book7/300/450",
+      "description": "Câu chuyện về lịch sử phát triển của loài người."
+    },
+    {
+      "id": 8,
+      "title": "Tư Duy Nhanh Và Chậm",
+      "author": "Daniel Kahneman",
+      "category": "Kỹ năng",
+      "price": 180000,
+      "image": "https://picsum.photos/seed/book8/300/450",
+      "description": "Khám phá hai hệ thống tư duy và những sai lệch thường gặp khi ra quyết định."
+    }
+  ],
+  "reviews": [
+    {
+      "bookId": 4,
+      "userId": 1,
+      "userName": "Nam",
+      "rating": 5,
+      "comment": "ádasdas",
+      "createdAt": "2026-10-20T09:34:19.706Z",
+      "id": 1
+    },
+    {
+      "bookId": 8,
+      "userId": 1,
+      "userName": "Nam",
+      "rating": 5,
+      "comment": "KHÔNG HAY",
+      "createdAt": "2026-10-20T09:41:04.362Z",
+      "id": 2
+    }
+  ]
+}
